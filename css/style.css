@@ -1,0 +1,56 @@
+#titre{
+    text-align:center ;
+    width: 100%;
+}
+.bottom-border{
+    width: 100%;
+}
+hr{
+ border: 1px solid white;  
+}
+.sidebar{
+    height: 100%;
+    width: 16%;
+    background-color: #262626;
+}
+#ulNav{
+    display: inline-block;
+    width: 100%;
+}
+#ulNav a{
+    color: white;
+    
+}
+#taches li{
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+
+.fa-check-square{
+    color: blue;
+    padding-right: 60px;
+}
+.fa-trash{
+   color: red;
+}
+.fa-edit{
+    padding-left: 60px;
+    padding-right: 5px;
+    color: green;
+}
+.nav-item:hover{
+    background-color: red;
+}
+.nav-item{
+    border-radius: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+#languages{
+    padding-top: 70px;
+}
+.list-group-item{
+    background: linear-gradient(to left,white 99%,orange 1%);
+}
